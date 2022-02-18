@@ -1,1 +1,12 @@
 ESERCIZIO 8:
+
+-Conto 2 a 2
+
+IF (piatti < sedie)
+
+    true (aggiungo 1 piatto)
+    false (tolgo 1 piatto)
+
+IF ELSE (piatti > sedie)
+    true (tolgo 1 piatto)
+    false (END)
